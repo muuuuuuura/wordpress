@@ -333,7 +333,7 @@ a{
 .siteTitle__logo img{
 	max-width:220px;
 	width:auto;
-	height:50px;	
+	height:50px;
 }
 .siteTitle__link{
 	position:relative;
@@ -440,7 +440,7 @@ a{
     min-width: 300px;
     white-space: nowrap;
 	height: 0;
-	background-color:#323232;	
+	background-color:#323232;
 	transition: 0.2s;
 }
 .globalNavi__list > li:hover .children li,
@@ -572,7 +572,7 @@ a{
 	margin-left:2px;
     color: #bfbfbf;
     border: #bfbfbf solid 1px;
-    border-radius: 5px;	
+    border-radius: 5px;
 }
 .subPager__item:hover{
 	color: #7f7f7f;
@@ -660,7 +660,7 @@ a{
 	height:auto;
 	vertical-align:bottom;
 	transform: scale(1);
-	transition: ease-in-out .2s;	
+	transition: ease-in-out .2s;
 }
 .eyecatch img:hover {transform: scale(1.2);}
 .eyecatch__cat{
@@ -859,7 +859,7 @@ a.page-numbers.next::before{
 	transition: transform ease-out 0.2s, background 0.2s;
 }
 .socialEffect__link:after {
-	content: ""; 
+	content: "";
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -941,7 +941,7 @@ a.page-numbers.next::before{
 	font-size:1.2rem;
 	background:#C1272D;
 	color:#fff;
-	border-radius:5px;	
+	border-radius:5px;
 }
 .contactTable__data {
     padding:0 0 30px 20px;
@@ -1205,7 +1205,7 @@ a.page-numbers.next::before{
 .widget > div > ul > li:first-child,
 .widget > ul > li:first-child{
 	padding-top:0;
-	border-top:0;	
+	border-top:0;
 }
 .widget ul li:before{
 	content:"・";
@@ -1248,7 +1248,7 @@ a.page-numbers.next::before{
 
 /*テキストボックス*/
 .widget .textwidget{
-	font-size:1.3rem;
+/*	font-size:1.3rem;*/
 	color:#3F3F3F;
 	line-height:1.75;
 }
@@ -1740,7 +1740,7 @@ a.page-numbers.next::before{
 }
 .t-light .socialSearch__link:hover {
     color: #ffffff;
-    border: 0;	
+    border: 0;
 }
 .t-light .siteTitle__big{color: #323232;}
 .t-light .siteTitle__small{color: #7F7F7F;}
