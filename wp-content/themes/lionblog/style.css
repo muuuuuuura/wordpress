@@ -1248,7 +1248,7 @@ a.page-numbers.next::before{
 
 /*テキストボックス*/
 .widget .textwidget{
-/*	font-size:1.3rem;*/
+	font-size:1.3rem;
 	color:#3F3F3F;
 	line-height:1.75;
 }
